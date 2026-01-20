@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883042754761",
+    "project_id": "laihan01",
+    "storage_bucket": "laihan01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883042754761:android:22f5fca240e0293566ed18",
+        "android_client_info": {
+          "package_name": "com.example.laihan01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883042754761-hgdb34boudiuc46t60n7jml11namg08q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NYJ_OU6VU9xj89G1nmRKpVpxhQ3jzrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883042754761-hgdb34boudiuc46t60n7jml11namg08q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
